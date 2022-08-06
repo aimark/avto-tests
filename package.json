@@ -1,0 +1,20 @@
+{
+  "name": "avto-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimark/avto-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimark/avto-tests/issues"
+  },
+  "homepage": "https://github.com/aimark/avto-tests#readme"
+}
